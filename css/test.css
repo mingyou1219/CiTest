@@ -1,0 +1,15 @@
+input {
+    width: 100%;
+}
+
+.table .user {
+    width: 50%;
+    height: 50px;
+    font-size: 50px;
+}
+
+.table .btn {
+    width: 10%;
+    height: 50px;
+    font-size: 20px;
+}
